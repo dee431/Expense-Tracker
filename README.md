@@ -1,7 +1,7 @@
-# Expense-Tracker
 A beginner-friendly and interactive Python Expense Tracker that helps you record, view, and calculate your daily spending directly through a simple console menu. This project is perfect for learning Python basics such as loops, lists, dictionaries, and user input handling.
 
-⭐ Features ➕ Add Expense
+⭐ Features
+➕ Add Expense
 
 Add a new expense with:
 
