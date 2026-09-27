@@ -1,3 +1,5 @@
+<img width="619" height="336" alt="image" src="https://github.com/user-attachments/assets/b123cd49-bb98-4ab6-ba1e-b5e310f49722" />
+
 A beginner-friendly and interactive Python Expense Tracker that helps you record, view, and calculate your daily spending directly through a simple console menu. This project is perfect for learning Python basics such as loops, lists, dictionaries, and user input handling.
 
 ⭐ Features
